@@ -1,2 +1,4 @@
 # prova_algoritimos
-prova 1 Joyce
+Orientadora: Joyce Siqueira
+
+3 exercícios que envolvem lógica e conhecimento em "C".
